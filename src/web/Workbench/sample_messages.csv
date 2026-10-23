@@ -1,0 +1,7 @@
+﻿message_id,channel,account,importance,urgency,risk
+MSG-2401,WhatsApp,Northstar Trading,92,96,Delivery deadline
+MSG-2402,Email,BluePeak Retail,71,48,External document review
+MSG-2403,Discord,Cedar Labs,97,93,Payment/fraud risk
+MSG-2404,WhatsApp,BluePeak Retail,39,18,No clear risk signal
+MSG-2405,Email,Northstar Trading,84,72,Invoice/amount verification
+MSG-2406,WhatsApp,Harborline Supply,28,12,No clear risk signal

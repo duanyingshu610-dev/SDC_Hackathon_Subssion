@@ -1,0 +1,19 @@
+{
+  "dataset_type": "100% synthetic / NOT live platform sync",
+  "raw_events": 9270,
+  "saved_messages": 9000,
+  "duplicates_skipped": 270,
+  "failed_events": 0,
+  "platform_counts": {
+    "whatsapp": 3000,
+    "discord": 3000,
+    "email": 3000
+  },
+  "sender_roles": {
+    "customer": 4307,
+    "colleague": 1322,
+    "supplier": 1887,
+    "supervisor": 1484
+  },
+  "failures": []
+}
