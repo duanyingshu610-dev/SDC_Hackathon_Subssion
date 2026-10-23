@@ -1,7 +1,0 @@
-﻿message_id,channel,account,importance,urgency,risk
-MSG-2401,WhatsApp,Northstar Trading,92,96,交付时限
-MSG-2402,Email,BluePeak Retail,71,48,资料外发检查
-MSG-2403,Discord,Cedar Labs,97,93,付款/欺诈风险
-MSG-2404,WhatsApp,BluePeak Retail,39,18,无明显风险信号
-MSG-2405,Email,Northstar Trading,84,72,发票/金额核对
-MSG-2406,WhatsApp,Harborline Supply,28,12,无明显风险信号

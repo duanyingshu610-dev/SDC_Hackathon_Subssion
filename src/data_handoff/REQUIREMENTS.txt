@@ -1,1 +1,0 @@
-本项目仅使用 Python 标准库（csv/json/hashlib/pathlib/unittest），无需 pip install。
